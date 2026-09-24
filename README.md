@@ -10,7 +10,7 @@ Looking for a developer? We build high-quality, scalable digital products:
 *   **Automation & Scripting:** Streamlining workflows and code optimization.
 *   **UI/UX for Developers:** Designing clean, minimalist, and functional digital experiences.
 
-📥 **Need a software solution or want to collaborate on a project?** [Contact us via Shopify](https://myshopify.com)
+📥 **Need a software solution or want to collaborate on a project?** [Contact us via Shopify](https://cxnump-a2.myshopify.com/)
 
 ---
 
@@ -18,17 +18,17 @@ Looking for a developer? We build high-quality, scalable digital products:
 We design the ultimate setup essentials to keep you inspired during long coding sessions. Click the links below to upgrade your workspace:
 
 ### 🎮 Gaming Mouse Pads & Desk Mats
-*   [Ctrl+Z Real Life Gaming Desk Mat](https://myshopify.com/products/ctrl-z-real-life-developer-gaming-mouse-pad)
-*   [Eclipse Dark Mode Coding Mouse Pad](https://myshopify.com/products/eclipse-dark-mode-coding-humor-gaming-desk-mat)
-*   [Eat Sleep Code Repeat Logic Mat](https://myshopify.com/products/eat-sleep-code-repeat-coding-logic-gaming-mouse-pad)
+*   [Ctrl+Z Real Life Gaming Desk Mat](https://myshopify.com)
+*   [Eclipse Dark Mode Coding Mouse Pad](https://myshopify.com)
+*   [Eat Sleep Code Repeat Logic Mat](https://myshopify.com)
 
 ### 👕 Developer T-Shirts & Apparel
-*   [Developer Definition Classic Tee](https://myshopify.com/products/developer-definition-unisex-classic-t-shirt)
-*   [Eat Sleep Code Repeat Unisex Shirt](https://myshopify.com/products/eat-sleep-code-repeat-unisex-classic-t-shirt)
+*   [Developer Definition Classic Tee](https://myshopify.com)
+*   [Eat Sleep Code Repeat Unisex Shirt](https://myshopify.com)
 
 ### ☕ Workspace Mugs
-*   [Developer Definition Ceramic Mug](https://myshopify.com/products/developer-definition-meaning-ceramic-mug)
-*   [Eat Sleep Code Repeat Coffee Mug](https://myshopify.com/products/eat-sleep-code-repeat-ceramic-mug)
+*   [Developer Definition Ceramic Mug](https://myshopify.com)
+*   [Eat Sleep Code Repeat Coffee Mug](https://myshopify.com)
 
 ---
 
@@ -38,5 +38,5 @@ We design the ultimate setup essentials to keep you inspired during long coding 
 </p>
 
 ### 🌐 Connect With Us
-*   **Shopify Store:** [Explore All 16 Products](https://myshopify.com)
+*   **Shopify Store:** [Explore All 16 Products](https://cxnump-a2.myshopify.com/)
 *   **Location:** Global Delivery (US & EU Focused)
